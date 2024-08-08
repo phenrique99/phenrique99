@@ -10,6 +10,6 @@ Meu nome é Paulo Henrique
 
 paulo.zuhl@escola.pr.gov.br
 
-@oaulozuhl
+@paulozuhl
 
 ![](https://media.tenor.com/LY1SSPItsl8AAAAM/pedro-pedro-flamengo.gif)
